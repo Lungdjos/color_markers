@@ -1,0 +1,12 @@
+/* STYLING */
+
+h1 {
+    text-align: center;
+}
+
+.marker {
+    background-color: red;
+    width: 320px;
+    height: 28px;
+    margin: 16px auto;
+}

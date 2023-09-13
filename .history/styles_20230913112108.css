@@ -12,7 +12,7 @@ h1 {
 }
 
 .one {
-    background-color: rgb(255, 127, 0);
+    background-color: red;
 }
 
 .two {
@@ -20,11 +20,11 @@ h1 {
 }
 
 .three {
-    background-color: rgb(0, 215, 227);
+    background-color: blue;
 }
 
 .four {
-    background-color: rgb(127, 0, 127);
+    background-color: brown;
 }
 
 .container {

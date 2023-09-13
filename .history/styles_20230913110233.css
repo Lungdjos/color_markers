@@ -1,0 +1,28 @@
+/* STYLING */
+
+h1 {
+    text-align: center;
+}
+
+.marker {
+    /* background-color: red; */
+    width: 320px;
+    height: 32px;
+    margin: 16px auto;
+}
+
+.one {
+    background-color: red;
+}
+
+.two {
+    background-color: green;
+}
+
+.three {
+    background-color: blue;
+}
+
+.four {
+    background-color: b;
+}

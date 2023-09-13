@@ -12,23 +12,23 @@ h1 {
 }
 
 .one {
-    background-color: rgb(255, 127, 0);
+    background-color: red;
 }
 
 .two {
-    background-color: rgb(0, 255, 127);
+    background-color: green;
 }
 
 .three {
-    background-color: rgb(0, 215, 227);
+    background-color: blue;
 }
 
 .four {
-    background-color: rgb(127, 0, 127);
+    background-color: brown;
 }
 
 .container {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     margin: auto;
-    padding: 10px 0px;
+    padding: 10px, 0, `;
 }
