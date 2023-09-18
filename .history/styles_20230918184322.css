@@ -34,19 +34,11 @@ h1 {
 }
 
 .sleeve {
-    width: 180px;
+    width: 210px;
     height: 32px;
-    background-color: rgba(255, 255, 255, 0.5);
-    border-left-width: 40px;
-    border-left-style: solid;
+    background-color: rgba(255, 255, 255, 0.5)
 }
 
 .cap {
-    width: 100px;
-    height: 32px;
-}
-
-.cap,
-.sleeve {
-    display: inline-block;
+    width: ;
 }

@@ -12,7 +12,7 @@ h1 {
 }
 
 .orange {
-    background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+    background: linear-gradient(rgb(255, 0, 0)32%, hsl(127, 100%, 0%) 45%, hh cyan);
 }
 
 .green {
@@ -34,19 +34,7 @@ h1 {
 }
 
 .sleeve {
-    width: 180px;
+    width: 320px;
     height: 32px;
-    background-color: rgba(255, 255, 255, 0.5);
-    border-left-width: 40px;
-    border-left-style: solid;
-}
-
-.cap {
-    width: 100px;
-    height: 32px;
-}
-
-.cap,
-.sleeve {
-    display: inline-block;
+    background-color: white;
 }
